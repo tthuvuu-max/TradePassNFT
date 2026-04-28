@@ -1,7 +1,7 @@
-# TradePass 
+# TradePass NFT
 
 ## Description
-TradePass is a smart contract built on Soroban (Stellar) that implements a **Soulbound NFT** for identity verification and trading authorization.  
+TradePass NFT is a smart contract built on Soroban (Stellar) that implements a **Soulbound NFT** for identity verification and trading authorization.  
 The project aims to prove **data ownership** directly on blockchain, ensuring that verification is handled by a trusted third‑party platform (the blockchain itself) rather than by the user or the trading counterparty. This approach prevents misuse or resale of personal information.
 
 ---
@@ -21,6 +21,9 @@ The project aims to prove **data ownership** directly on blockchain, ensuring th
   [Stellar Expert Testnet](https://stellar.expert/explorer/testnet/contract/CAJ5SLKLZRKXOHNHKQZM47ELS5SCXWSSQUYLQCLW3WPLG5LFPL2ZMXXJ)
 
 Contract screenshot: 
+
+<img width="1891" height="1028" alt="image" src="https://github.com/user-attachments/assets/7ea215c0-1948-4fbd-b199-4fc5a88c496e" />
+<img width="511" height="553" alt="image" src="https://github.com/user-attachments/assets/789f9534-181f-4b85-b582-f1ba8609dd9d" />
 
 
 ---
